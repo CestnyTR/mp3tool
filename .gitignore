@@ -1,0 +1,4 @@
+venv/
+ffmpeg/
+*.mp3
+__pycache__/
