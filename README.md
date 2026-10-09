@@ -25,7 +25,7 @@ Download audio from YouTube videos and trim them to a specific time range as MP3
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mp3tool.git
+git clone https://github.com/CestnyTR/mp3tool.git
 cd mp3tool
 ```
 
